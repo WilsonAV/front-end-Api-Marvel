@@ -1,0 +1,10 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+.toolBar {
+  font-size: 2rem;
+  color: white;
+  background-image:url('../../../assets/images/toolbar.jfif');
+  width: auto;
+  height: 120px;
+}
